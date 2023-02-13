@@ -27,3 +27,7 @@ If Steam is running on your system, make sure it's closed or ensure the configur
 ## Installation
 
 Nothing. Just connect your controller, launch Minecraft with Controllable installed and you are ready to play!
+
+## Troubleshooting
+
+Check out the Troubleshooting section in the sidebar for information

@@ -88,6 +88,10 @@ Finally find `GlosSITarget` in your library and hit `Play`. You can test if **Gl
 
 You are now ready to play Minecraft with Controllable!
 
+## Troubleshooting
+
+Check out the Troubleshooting section in the sidebar for information
+
 ## More Information
 
 GlosSI Homepage: [https://glossi.flatspot.pictures/](https://glossi.flatspot.pictures/)

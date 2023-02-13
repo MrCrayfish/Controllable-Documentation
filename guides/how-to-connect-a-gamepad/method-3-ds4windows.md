@@ -85,6 +85,10 @@ You can now close the window. If your controller was connected, you'll need to d
 
 You are now ready to play Minecraft with Controllable!
 
+## Troubleshooting
+
+Check out the Troubleshooting section in the sidebar for information
+
 ## More Information
 
 DS4Windows Troubleshooting: [https://docs.ds4windows.app/troubleshooting/](https://docs.ds4windows.app/troubleshooting/)

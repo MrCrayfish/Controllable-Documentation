@@ -4,7 +4,7 @@ The mappings available in each version of Controllable are those that were avail
 
 You can however solve this issue by manually patching the mappings.
 
-#### Download the Latest Mappings
+### Download the Latest Mappings
 
 Head to the [SDL Game Controller Database](https://github.com/gabomdq/SDL\_GameControllerDB) and download the source code.&#x20;
 
@@ -12,7 +12,7 @@ Head to the [SDL Game Controller Database](https://github.com/gabomdq/SDL\_GameC
 
 Extract the ZIP into an empty directory. You can delete this directory after you have finished this guide.
 
-#### Patching the Mappings
+### Patching the Mappings
 
 Locate the JAR file of Controllable you have installed for your game. JAR files are actually just ZIP files with a renamed extension. Next you'll need to open the file as a ZIP archive, and there are few ways to do this.
 

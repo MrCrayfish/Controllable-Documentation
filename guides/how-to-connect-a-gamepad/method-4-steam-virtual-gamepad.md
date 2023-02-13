@@ -35,13 +35,13 @@ Ensure Steam is installed on your system before continuing with the tutorial
 
 Add the Minecraft Launcher (or any other launcher) as a non-steam game on Steam.
 
-> <mark style="color:blue;">Have an image to place here? Request a change</mark>
+> Have an image to place here? [Submit a pull request](https://github.com/MrCrayfish/Controllable-Documentation/pulls)
 
 #### Step 2:
 
 Connect your controller to your system and launch Steam Big Picture. Locate the launcher in your library and hit `Play`. Steam's Virtual Gamepad will now be enabled in the background.&#x20;
 
-> <mark style="color:blue;">Have an image to place here? Request a change</mark>
+> Have an image to place here? [Submit a pull request](https://github.com/MrCrayfish/Controllable-Documentation/pulls)
 
 #### Step 3:&#x20;
 
@@ -50,3 +50,13 @@ Start Minecraft in your launcher like you normally would, of course with Control
 <figure><img src="../../.gitbook/assets/image (7).png" alt=""><figcaption><p>The selected controller should be Steam's virtual gamepad</p></figcaption></figure>
 
 You are now ready to play Minecraft with Controllable!
+
+## Troubleshooting
+
+Check out the Troubleshooting section in the sidebar for information
+
+## More Information
+
+Steam: [https://store.steampowered.com/](https://store.steampowered.com/)
+
+Supported controllers: [https://partner.steamgames.com/doc/features/steam\_controller/device](https://partner.steamgames.com/doc/features/steam\_controller/device)
