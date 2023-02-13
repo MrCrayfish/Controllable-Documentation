@@ -1,6 +1,6 @@
 ---
-cover: .gitbook/assets/NewScreenshot1.png
-coverY: 290
+cover: .gitbook/assets/RenderedLogo.png
+coverY: 0
 ---
 
 # Introduction
