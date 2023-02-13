@@ -50,7 +50,7 @@ After you've restarted your system, open Steam and turn on **Xbox Configuration*
 
 Next you'll need to add **GlosSI** as a non-steam game. You can Add a Game by clicking `Games > Add a Non-Steam Game to My Library`. This will bring up a window and you want to tick `GlosSI-Target` as the game to add. **Do not tick the other GlosSI file.** Finally click `Add Selected Programs` and it will be added to your Steam library.
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption><p>Tick GlosSI-Target only</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption><p>Tick GlosSI-Target only</p></figcaption></figure>
 
 Finally find `GlosSI-Target` in your library and hit `Play`. You can test if **GlosSI** is working by using [Gamepad Tester](https://gamepad-tester.com/). It should appear as an Xbox Controller, which means **GlosSI** is working correctly.
 
