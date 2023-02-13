@@ -13,7 +13,7 @@ Start browsing the documentation by learning [How to Connect a Gamepad](guides/h
 
 ### We need your help!
 
-Testing and documentation for Controllable on Mac OS and Linux is needed. If you are familiar with using gamepads on these system, you can contribute to this documentation.
+Testing and documentation for Controllable on Mac OS and Linux is needed. If you are familiar with using gamepads on these system, you can [contribute to this documentation](https://github.com/MrCrayfish/Controllable-Documentation).
 
 ### License
 
