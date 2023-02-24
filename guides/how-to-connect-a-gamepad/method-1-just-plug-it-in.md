@@ -21,7 +21,7 @@ If Steam is running on your system, make sure it's closed or ensure the configur
 
 #### Cons
 
-* Limited support for controllers. This varies depending on your OS, drivers, and conneciton type.
+* Limited support for controllers. This varies depending on your OS, drivers, and connection type.
 * Mappings may be incorrect. If this a problem, you may have to [manually updating mappings](../../troubleshooting/solving-incorrect-mappings.md).
 
 ## Installation
