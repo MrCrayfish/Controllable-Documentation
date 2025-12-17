@@ -44,9 +44,20 @@ Add the Minecraft Launcher (or any other launcher) as a non-steam game on Steam.
 
 #### Step 2:
 
+##### Option 1: Steam Big Picture Mode
+
 Connect your controller to your system and launch Steam Big Picture. Locate the launcher in your library and hit `Play`. Steam's Virtual Gamepad will now be enabled in the background.&#x20;
 
 > Have an image to place here? [Submit a pull request](https://github.com/MrCrayfish/Controllable-Documentation/pulls)
+
+#### Option 2: 
+
+Navigate to `Steam` > `Settings` > `Controllers` from the Steam application and settings dialog. `Enable Steam input` for your controller. Run the launcher from your library.
+
+<figure><img src="../../.gitbook/assets/steamSettingsMenuOption.png" alt=""><figcaption><p>Settings Menu Option</p></figcaption></figure>
+
+<figure><img src="../../.gitbook/assets/steamSettingsController.png" alt=""><figcaption><p>Enable Controller Inputs in Steam Settings</p></figcaption></figure>
+
 
 #### Step 3:&#x20;
 
