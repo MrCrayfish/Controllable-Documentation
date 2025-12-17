@@ -53,12 +53,12 @@ If the controller is not connected, you may not see any output from the above co
 
 #### Step 3:&#x20;
 
-Start Minecraft in your launcher like you normally would, of course with Controllable installed too. Once the game has started, your controller should be automatically selected and work straight away. You can check if it's working correctly by navigating to the controller selection menu and you should see `Steam Virtual Gamepad` selected.
+Start Minecraft in your launcher like you normally would, of course with Controllable installed too. Once the game has started, your controller should be automatically selected and work straight away. You can check if it's working correctly by navigating to the controller selection menu and you should see the controller selected.
 
 <figure><img src="../../.gitbook/assets/linuxMethod5Controller.png" alt=""><figcaption><p>The selected controller should be shown</p></figcaption></figure>
 
 {% hint style="info" %}
-The controller may show up different from your actual controller model.
+The controller may show up differently from your actual controller model.
 {% endhint %}
 
 You are now ready to play Minecraft with Controllable!
