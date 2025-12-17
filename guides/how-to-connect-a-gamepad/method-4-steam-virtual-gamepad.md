@@ -35,6 +35,11 @@ Ensure Steam is installed on your system before continuing with the tutorial
 
 Add the Minecraft Launcher (or any other launcher) as a non-steam game on Steam.
 
+1. Open the Steam Application
+2. Select `Games` > `Add a Non-Steam Game to My Library`
+<figure><img src="../../.gitbook/assets/installNonSteamGame.png" alt=""><figcaption><p>Add a Non-Steam Game to My Library Menu Option</p></figcaption></figure>
+3. Select the Minecraft Launcher of your choice.
+
 > Have an image to place here? [Submit a pull request](https://github.com/MrCrayfish/Controllable-Documentation/pulls)
 
 #### Step 2:
