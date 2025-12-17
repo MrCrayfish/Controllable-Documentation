@@ -39,3 +39,7 @@ Controllable is developed and tested on Windows. The guides for Mac OS and Linux
 {% content-ref url="method-4-steam-virtual-gamepad.md" %}
 [method-4-steam-virtual-gamepad.md](method-4-steam-virtual-gamepad.md)
 {% endcontent-ref %}
+
+{% content-ref url="method-5-linux-xpadneo.md" %}
+[method-5-linux-xpadneo.md](method-5-linux-xpadneo.md)
+{% endcontent-ref %}
