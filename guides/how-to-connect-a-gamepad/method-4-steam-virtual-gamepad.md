@@ -49,7 +49,7 @@ Connect your controller to your system and launch Steam Big Picture. Locate the 
 
 > Have an image to place here? [Submit a pull request](https://github.com/MrCrayfish/Controllable-Documentation/pulls)
 
-#### Option 2: 
+##### Option 2: 
 
 Navigate to `Steam` > `Settings` > `Controllers` from the Steam application and settings dialog. `Enable Steam input` for your controller. Run the launcher from your library.
 
