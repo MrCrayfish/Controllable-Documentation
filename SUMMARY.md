@@ -9,6 +9,7 @@
   * [Method 2: GlosSI](guides/how-to-connect-a-gamepad/method-2-glossi.md)
   * [Method 3: DS4Windows](guides/how-to-connect-a-gamepad/method-3-ds4windows.md)
   * [Method 4: Steam Virtual Gamepad](guides/how-to-connect-a-gamepad/method-4-steam-virtual-gamepad.md)
+  * [Method 5: Linux - xpadneo](guides/how-to-connect-a-gamepad/method-5-linux-xpadneo.md)
 
 ## 💁 Troubleshooting
 
