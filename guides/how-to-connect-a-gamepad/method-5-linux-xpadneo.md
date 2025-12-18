@@ -25,7 +25,7 @@ This method is only for Linux. This will not work on Windows or Mac
 ## Tutorial
 
 {% hint style="info" %}
-This tutorial needs more testing. If you are running Linux, please &#x20;
+This tutorial needs more testing. If you are running Linux, please try these steps and report any issues or feedback you have.
 {% endhint %}
 
 #### Step 1:
